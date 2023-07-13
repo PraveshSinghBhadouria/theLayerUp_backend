@@ -3,9 +3,9 @@ var pool = mysql.createPool({
     
      host: 'sql.freedb.tech',
      port: 3306,
-     user: 'freedb_TheLayerUp',
-     password: '!GeZrqUR97qF%!P',
-     database: 'freedb_TheLayerUp',
+     user: 'freedb_TheLayerUps',
+     password: '4hyN5py#p7?PpEk',
+     database: 'freedb_TheLayerUps',
      connectionLimit: 100
 
    /* host: 'localhost',
